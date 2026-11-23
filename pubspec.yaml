@@ -18,7 +18,7 @@ screenshots:
     path: doc/images/flutter_edge_tts_preview_mac1.png
 
 environment:
-  sdk: ">=3.10.0 <4.0.0"
+  sdk: ">=3.4.3 <4.0.0"
   flutter: ">=3.38.0"
 
 dependencies:
